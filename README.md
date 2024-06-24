@@ -4,8 +4,7 @@ Welcome to the Complete Java Repository! This repository is designed to be a com
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
+- [Basics of Java](https://github.com/sohail019/Complete-Java/tree/main/01%20-%20Basics)
 
 ## Introduction
 
