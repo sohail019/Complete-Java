@@ -3,7 +3,7 @@ class Type1MethodEx1{
 		add();
 	}
 	
-	public static void add(){
+	public static void add(){ // Not return any value, not accept any parameter
 		int a = 10;
 		int b = 20;
 		int res = a + b;
