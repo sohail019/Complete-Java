@@ -11,7 +11,7 @@ public class IfElse1 {
         System.out.println("Enter Your Age::");
 
         int age = scan.nextInt();
-
+        scan.close();
         if (age >= 18) {
             System.out.println("You are Adult, Your Age is: " + age );
         } else {
