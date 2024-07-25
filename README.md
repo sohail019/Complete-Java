@@ -18,5 +18,5 @@ To get started with Java, you'll need to have the Java Development Kit (JDK) ins
 2. Set up your development environment using an IDE like IntelliJ IDEA, Eclipse, or VS Code.
 3. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/complete-java.git
+   git clone https://github.com/sohail019/complete-java.git
 4. Navigate to the cloned directory and start exploring the content.
